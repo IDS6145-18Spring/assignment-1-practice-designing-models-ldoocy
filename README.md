@@ -1,8 +1,7 @@
-# Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
+# Assignment1 - Practice Designing Models
 
-> * Participant name: (your name)
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Participant name: Lauren Doocy
+> * Project Title: Smart City Transportation Plan
 
 ## General Introduction
 
