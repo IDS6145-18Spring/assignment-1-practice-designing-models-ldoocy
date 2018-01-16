@@ -25,16 +25,39 @@ Orlando's traffic conjection issues stem from the large number of commuters with
 
 There are many ways to lower GHG emissions. The most obvious solution is to have less drivers on the road.
 
-Orlando needs more public transportation options
-Orlando needs less drivers on the road, encouragement of carpooling
-Orlando needs alternate driving route to I4
-Orlando needs more greenery to combat CO2 emissions
+This system will use data collection to try and reduce the nubmer of single passenger cars on the road. If less single passenger cars are on the road this can mean a multitude of things. This may mean more commuters are using public transportation, more people are using alternate routes, and more people are carpooling. The one thing that these things have in common is a reduction of cars on the road, and the reduction of average time a car spends on the road.
 
-## Requirements (Experimental Design)
+GHG are more or less determined by the gallons of gas burned by a vehicle. If the average car is spending less time to get from point A to point B, by way of clearing up traffic congestion, the average car will be producing less GHG.
+
+This goal will be completed by way of multiple things. Orlando needs more public transportation options. While the Lynx bus system provides an alternate way to get around the city, the stops are limited. The addition of a train system through the heart of the city will enourage those commuting to and from work to use public transportation.
+
+Another solution is incentives for carpooling rather than driving alone.
+
+Orlando needs to create more major roadways for commuters to use to get to and from work. Currently I4 is one of the only free roadways through the city. Creating more options for those to use the current tollroads and creating a freeway system to sustain the number of drivers will reduce the average time on the road.
+
+Orlando needs more greenery to combat CO2 emissions??
+
+Historical context: has Washington DC, Philidelphia, San Francisco done this???
+
+## Requirements
 
 (remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
-## Smart City (My Problem) Model
+Functional Requirements: The system will reduce the number of single passenger cars on the road.
+Performance Requirements:
+Usability Requirements:
+Interface Req:
+Operational Req:
+Modes req:
+Adapatability Req:
+Physical Restraints:
+Design Restraints:
+Environmental Conditions:
+Logisitcal Req:
+Policies and Regulations:
+Cost and Schedule:
+
+## Smart City Transportation Model
 
 (remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
 (remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
@@ -44,12 +67,12 @@ Orlando needs more greenery to combat CO2 emissions
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
 
-## Smart City (My Problem) Simulation
+## Smart City Transportation Simulation
 
 (remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
 
 
-## Smart City (My Problem) Model
+## Smart City Transportation Model
 [**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
