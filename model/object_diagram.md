@@ -1,13 +1,7 @@
-## Smart City (My Problem) Model - Object Diagram
+## Smart City Transportation Model - Object Diagram
 
-(remove: provide a description of the current model you describe below)
+Here is an object diagram describing the transportation system of a typical metro city area.
 
-(remove: use images!!!)
-(remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
-
-![Example Object Diagram](../images/class_example_diagram.png)
+![Example Object Diagram](../images/Object.png)
 
 (remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
-
-(remove: each diagram markdown file should roughly follow this template)
