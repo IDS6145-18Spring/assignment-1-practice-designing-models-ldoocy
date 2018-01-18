@@ -19,21 +19,7 @@ Through this simulation we will gain a better understanding of what drives our u
 
 ## Requirements
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
-
-Functional Requirements: The system will reduce the number of single passenger cars on the road.
-Performance Requirements:
-Usability Requirements:
-Interface Req:
-Operational Req:
-Modes req:
-Adapatability Req:
-Physical Restraints:
-Design Restraints:
-Environmental Conditions:
-Logisitcal Req:
-Policies and Regulations:
-Cost and Schedule:
+User transportation preferences will only change when something changes. This system will implement changes to the current transporation options one at a time and view how it changes transportation preferences of the users. These changes will be things such as adding more bus stops, implementing a transit train system, repaving and creating safer bike paths and walk ways, and insentive programs for carpooling commuters. With each implementation user preferences will be re-evaluated and the number of single passenger cars on the road will be assessed.
 
 ## Smart City Transportation Model
 
