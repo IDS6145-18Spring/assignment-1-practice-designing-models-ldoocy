@@ -50,4 +50,4 @@ This is the rough plan for the [**Smart City Transportation Model**](model/READM
 
 ## Smart City Transportation Model
 
-Here [**we provide an overview**](code/Readme.md) of a Smart City Transportation Model.
+Here [**we provide an overview**](code/README.md) of a Smart City Transportation Model.
