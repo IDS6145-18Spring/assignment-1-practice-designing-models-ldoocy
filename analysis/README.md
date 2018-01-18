@@ -1,9 +1,5 @@
 ## Smart City Simulation
 
-(remove: Define what category  (or combination of categories) of simulation needed to solve this problem.)
+Agent-ased simulation is needed to provide a good understanding of what makes users prefer certain modes of transportations over others. From here, we can implement various programs to convince users to choose alternative types of transportation.
 
-(remove: Why did you choose this simulation type?)
-
-(remove: Roughly, how would you conduct the simulation to produce the results from your specification?)
-
-(remove: images say 1000 words for you...)
+This type of simulation would require a lot of trial and error. We would need to first understand the demographics of the city, describing the type of transportation commuters use daily. From there, our main goal is to lower the number of single passenger cars on the road. By recording the number of passengers on all types of transportation, we would have a better idea of choices in transportation based on changing numbers of all modes of transportation.
