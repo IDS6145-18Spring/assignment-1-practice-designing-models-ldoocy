@@ -1,4 +1,4 @@
-## Smart City (My Problem) Model
+## Smart City Transportation Model
 
 [**Transportation**](Transporation.py) - a class that holds the attributes and functions that describes all types of intercity transportation.
 
